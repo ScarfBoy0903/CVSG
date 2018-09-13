@@ -1,4 +1,4 @@
-###**[論文筆記] Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms**
+###[論文筆記] Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms
 
 這是小弟第一篇論文筆記，將來應該會每週更新一篇論文筆記，自己還很菜，文中有些基礎部分知識還沒理解的部分會略過，有機會的話會再補足，若內文有錯誤還請各位多多包涵不吝指正。
 <br><br>
